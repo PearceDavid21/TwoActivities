@@ -1,0 +1,9 @@
+https://codelabs.developers.google.com/codelabs/android-training-create-an-activity/index.html#0
+
+Do the codelab and read on intents and activities in the link below
+
+
+
+2.1: Understanding Activities and Intents · GitBook
+https://google-developer-training.github.io
+
